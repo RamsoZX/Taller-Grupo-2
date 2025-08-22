@@ -1,1 +1,11 @@
+<<<<<<< HEAD
+Archivo de notas
+=======
 Rompiendo cosas
+>>>>>>> 19205c2db52608d328647e78dfbf130962e5e6ef
+Resolviendo problemas
+Esta es una nota adicional 
+esta es mi primer liena de sebastian rivas
+2DA LINEA sebastian
+
+romper linea 11
